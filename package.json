@@ -8,5 +8,9 @@
   },
   "author": "Santosh Ugale",
   "license": "ISC",
-  "git": "https://github.com/santoshugale/nodejs-video-streaming-server.git"
+  "git": "https://github.com/santoshugale/nodejs-video-streaming-server.git",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5"
+  }
 }
